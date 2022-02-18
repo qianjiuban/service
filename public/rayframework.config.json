@@ -1,0 +1,7 @@
+let rayframework = {
+  "axiosConfig": {
+    "url": "http://121.37.168.6/fcapply"
+  },
+  "appSecret": "1231212XXXXDDDDEEEFx2312121212",
+  "appId": "FC9CBe999999",
+}
